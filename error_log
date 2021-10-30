@@ -1,0 +1,1 @@
+[07-Apr-2021 12:44:16 UTC] PHP Fatal error:  Cannot redeclare Api::get_all_banners() in /home/zj79u6beefaa/public_html/vendue/application/controllers/Api.php on line 3464
